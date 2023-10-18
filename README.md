@@ -4,7 +4,7 @@ This GitHub repository documents the setup and configuration of an Active Direct
 # Overview
 
 1. Lab Setup and Infrastructure:
-- Environment: Created a home lab environment using VirtualBox.
+- Environment: Created a home lab active directory environment using VirtualBox.
 - Operating Systems: Installed Windows 10 and Windows Server 2019 from ISO images.
 
 2. Domain Controller Configuration:

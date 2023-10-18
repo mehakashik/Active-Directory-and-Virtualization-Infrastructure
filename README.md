@@ -28,4 +28,4 @@ This GitHub repository documents the setup and configuration of an Active Direct
 - Client VM Creation: Created a Windows 10 client VM, named 'client1,' and successfully joined it to the domain.
 - User Login: Logged into the client machine using one of the domain accounts for practical testing and validation.
 
-7. Key Skills: Demonstrated proficiency in virtualization, network setup, Windows Server administration, Active Directory management, DHCP configuration, PowerShell scripting, and domain client integration.
+Key Skills: Demonstrated proficiency in virtualization, network setup, Windows Server administration, Active Directory management, DHCP configuration, PowerShell scripting, and domain client integration.
